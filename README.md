@@ -19,7 +19,7 @@ The computational hardness of this algorithm is prime factorization. To decrypt 
 
 * **gcd:** A helper function that computes the gcd of any two integers. This will be helpful when you choose the public exponent
 
-* **isprime:** Checks if a given integer isprime. Returns true if prime,otherwise False
+* **isprime:** Checks if a given integer isprime. Returns true if prime, otherwise False
 
 * **rsa_encrypt:** The RSA encryption function that encrypts a message using a public key. The input format of your message is integers. This function is not encrypting strings or other data types
 
